@@ -1,0 +1,25 @@
+{
+  "name": "app_react_ok",
+  "version": "0.9.0",
+  "description": "https://github.com/hugo1975-code/App_react_ok.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugo1975-code/App_react_ok.git"
+  },
+  "keywords": [
+    "hugo1975"
+  ],
+  "author": "Hugo Piamba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugo1975-code/App_react_ok/issues"
+  },
+  "homepage": "https://github.com/hugo1975-code/App_react_ok#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
